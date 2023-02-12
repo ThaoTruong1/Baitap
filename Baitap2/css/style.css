@@ -1,0 +1,30 @@
+h1:first-child {
+    text-align: center;
+}
+
+h3 {
+    color: hotpink; 
+    background-color: pink; 
+    text-align: center;
+}
+
+div {
+    text-align: center;
+    background-color: #FFFAB3;
+}
+
+hr {
+    width: 150px;
+}
+
+#first {
+    color: blue;
+}
+
+#second {
+    color: red;
+}
+
+#third {
+    color: green;
+}
