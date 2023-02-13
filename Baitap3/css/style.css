@@ -1,0 +1,16 @@
+h2 {
+    color: orange;
+    text-align: center;
+}
+
+body {
+    background-color: peru;
+    background-image: url("../images/image.webp");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position-y: 100px;
+}
+
+div {
+    color: white;
+}
