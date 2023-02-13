@@ -1,0 +1,22 @@
+h2 {
+    color: #03acac;
+    text-align: center;
+}
+
+body {
+    background-image: url("../images/image.webp");
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
+#content {
+    color: #299c9c;
+}
+
+#first {
+    font-weight: bold;
+    font-style: italic;
+    background-color: rgb(1, 109, 109);
+    color: white;
+}

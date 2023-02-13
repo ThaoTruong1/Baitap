@@ -1,0 +1,14 @@
+h2 {
+    color: green;
+    text-align: center;
+}
+.subject-name {
+    text-decoration: underline;
+    font-weight: bold;
+}
+pre {
+    background-color: #b4b3b3;
+}
+.name {
+    color: red;
+}
